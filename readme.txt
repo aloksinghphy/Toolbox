@@ -1,1 +1,0 @@
-To install application, launch program file MyAppInstaller_mcr.exe.
