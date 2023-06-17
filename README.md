@@ -48,3 +48,5 @@ S8. An opportunity for experimentalists and theoreticians to join hands for coll
 This code is written in MATLAB R2020a.
 *Main MATLAB File: NanosensorLab_v1b1.m
 *All files should be in the current folder.
+*********************************************************************************************************************************************************************************************
+For GUI, MyAppInstaller_mcr.exe, and NanoSensorLab.exe files are required to run the simulation. 
