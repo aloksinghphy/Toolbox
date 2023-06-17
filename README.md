@@ -43,3 +43,8 @@ S6. Capable of producing quality publications.
 S7. Continuous up-gradation and advancement in the process.
 
 S8. An opportunity for experimentalists and theoreticians to join hands for collaborative research and development work.
+
+***********************************************************************************************************************************************
+This code is written in MATLAB R2020a.
+*Main MATLAB File: NanosensorLab_v1b1.m
+*All files should be in the current folder.
