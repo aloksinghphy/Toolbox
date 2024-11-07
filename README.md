@@ -45,7 +45,8 @@ S7. Continuous up-gradation and advancement in the process.
 S8. An opportunity for experimentalists and theoreticians to join hands for collaborative research and development work.
 
 ***********************************************************************************************************************************************
-This code is written in MATLAB R2020a.
+This code is written in MATLAB R2020a. 
+*Please downlod MATALB Runtime. Link: https://ssd.mathworks.com/supportfiles/downloads/R2020a/Release/8/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020a_Update_8_win64.zip
 *Main MATLAB File: NanosensorLab_v1b1.m
 *All files should be in the current folder.
 *********************************************************************************************************************************************************************************************
